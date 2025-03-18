@@ -2,7 +2,8 @@
 
 🚀 **Software Engineer | Full-Stack Developer**  
 💡 Passionate about solving complex problems & building scalable applications.  
-💻 Proficient in **Java, DSA, JavaScript, React.js, SQL, Spring Boot**  
+💻 Proficient in **Java, JavaScript, HTML, CSS, React.js, Node.js, Spring Boot, SQL, NoSQL, System Design**  
+⚙️ Familiar with **REST APIs, Kafka, AWS, Microservices, Docker, Kubernetes, Terraform**  
 🎯 Solved **400+ DSA problems** on **LeetCode & GFG**  
 🌍 Open-source contributor | Learning **Cloud & DevOps**  
 
